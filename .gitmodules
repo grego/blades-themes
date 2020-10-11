@@ -1,0 +1,9 @@
+[submodule "BLADE.386"]
+	path = BLADE.386
+	url = https://github.com/grego/BLADE.386
+[submodule "casper"]
+	path = casper
+	url = https://github.com/grego/casper
+[submodule "after-dark"]
+	path = after-dark
+	url = https://github.com/grego/after-dark
